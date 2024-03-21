@@ -183,7 +183,7 @@
     "webpack": "^4.28.4",
     "webpack-bundle-analyzer": "^3.8.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-middleware": "^3.7.2"
+    "webpack-dev-middleware": "^5.3.4"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0",
